@@ -43,6 +43,7 @@ setup_args = dict(
     version=meta.__version__,
     description=meta.__description__,
     long_description=meta.__long_description__,
+    license='MIT',
     url='https://gitlab.com/njoyce/tornado-retry',
     maintainer='Nick Joyce',
     maintainer_email='nick+tornado-retry@boxdesign.co.uk',
