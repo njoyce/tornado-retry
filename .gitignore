@@ -3,3 +3,6 @@ covhtml
 cover
 
 *.pyc
+dist
+*.egg-info
+build
